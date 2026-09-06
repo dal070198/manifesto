@@ -232,7 +232,7 @@ h1 {
     left: 10vw;
 
     color: transparent;
-    -webkit-text-stroke: 1.5px #f4f4f4;
+    -webkit-text-stroke: 1.5px#f4f4f4;
 
     opacity: 0.45;
 }
@@ -245,4 +245,10 @@ h1 {
     color: #f4f4f4;
 
     opacity: 1;
+}
+suspicion span,
+.deconstruct span,
+.experiences span {
+    will-change: transform;
+    transition: transform 0.12s ease-out;
 }
