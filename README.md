@@ -1,9 +1,7 @@
-# Website Template
+# Critical Engineering Manifesto
 
-Fork and use this template repo (a.k.a. "boilerplate") for any web project
+An interactive concrete poetry webpage based on a line from
+The Critical Engineering Manifesto.
 
-## Use this repo
-
-1. Click "Use this template"
-1. Choose either "Create a new repository" or "[Open in a Codespace](https://codespaces.new/criticalwebdesign/website-template)"
-
+The design uses repetition, scale, opacity, and mouse interaction
+to explore the ideas of deconstruction and suspicion.
